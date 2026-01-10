@@ -15,7 +15,6 @@ description: Course policies.
 
 ---
 
-
 ## Textbooks
 There is no need buy any textbook for this course. We will provide slides or lecture notes in this course. The following are companion textbooks that can provide useful further reading: 
 
@@ -24,16 +23,14 @@ There is no need buy any textbook for this course. We will provide slides or lec
 
 ## Attendance
 Class attendance and participation are key for both your and your peer’s success in this class.
-You are expected to attend class in person during the scheduled time, including the final presentations. I understand that occasionally you may have challenges attending (e.g., illness, religious
-observance, etc.). However, if you anticipate having a challenge regularly attending class, please
-contact us.
+You are expected to attend class in person during the scheduled time, including the final race. I understand that occasionally you may have challenges attending (e.g., illness, religious
+observance, etc.). However, if you anticipate having a challenge regularly attending class, please contact us.
 
 ## Holiday Policy
 This course will follow the University Policy on Secular & Religious Holidays which can be found in the PennBook. No exams or assigned work will be required on those holidays listed in sections 1 & 2 of the policy.  Students who plan to observe any other holiday should contact the instructor within the first two weeks of class so that alternative arrangements can be made.
 
 ## Academic Integrity
-Honesty and transparency are important features of good scholarship. On the flip side, plagiarism and cheating are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment
-in question, and further disciplinary action may be taken.
+Honesty and transparency are important features of good scholarship. On the flip side, plagiarism and cheating are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment in question, and further disciplinary action may be taken.
 We encourage you to work together on projects (teams up to 2) to make use of
 campus resources like Penn GSE Student Success to assist you in your pursuit of
 academic excellence. However, please note that in accord with the university’s policy you must
@@ -47,7 +44,7 @@ The only time when students have to submit something for this class is for the d
 ## Communication
 - **Website**: We will use the class website for posting course content (e.g., slides). 
 - **Canvas**: We will use Canvas for uploading all assignments. 
-- **Email**: If you email your instructors, please include the substring "[RWRL Course]" to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. Please use your UPenn email account.
+- **Email**: Please use your UPenn email account.
 
 ## Grading
 Grading details will be provided in the slides from the first class. Overall, your final grade will be based on a combination of exams and your performance in the drone race.

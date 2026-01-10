@@ -4,27 +4,27 @@ title: Applications and Frontiers
 
 NOV 4
 : Guest Lecture I  
-  : [Haozhi Qi](https://haozhi.io)
+  : [TBA]()
 
 
 NOV 6
 : Guest Lecture II 
-  : [Rachel Holladay](https://www.seas.upenn.edu/~rhollada/)
+  : [TBA]()
 
 
 NOV 13
 : Guest Lecture III
-  : [Yunzhu Li](https://yunzhuli.github.io)
+  : [TBA]()
 
 
 NOV 18
 : Guest Lecture IV
-  : [Homanga Bharadhwaj](https://homangab.github.io/), Submission Deadline for Race Phase I.
+  : [TBA]()
 
 
 NOV 25
 : Challenges Ahead
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [TBA]()
 
 
 NOV 27

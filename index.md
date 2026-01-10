@@ -8,7 +8,7 @@ seo:
 ---
 
 # Physical Intelligence
-Fall 2025. ESE 6510. Tue / Thu 10:15-11:45. Fagin Hall 118.
+Spring 2026. ESE 6510. Tue / Thu 10:15-11:45. Berger Auditorium (basement floor of Skirkanich Hall)
 
 ![Image](/assets/images/front_page.png)
 
@@ -28,6 +28,10 @@ This course offers a structured framework to explore these questions. We will st
 
 This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520).
 
+### Previous Offerings
+
+This class was also offered in [Fall 2025](https://antonilo.github.io/physical_intelligence_fl25/).
+
 
 ## Schedule 
 
@@ -36,7 +40,7 @@ This is a graduate-level course. Students are expected to have prior knowledge i
 {% endfor %}
 
 
-## Instructors
+## Instructor
 
 <figure style="display: inline-flex;">
 <figure>
