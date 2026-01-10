@@ -3,12 +3,12 @@ title: Imitation Learning
 --- 
 
 MAR 26
-: Introduction to Behavioral Cloning 
+: Introduction to Behavioral Cloning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 MAR 31
 : Behavioral Cloning Algorithms
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/), Phase I Race Deadline
 
 APR 2
 : Behavioral Cloning and Foundation Models

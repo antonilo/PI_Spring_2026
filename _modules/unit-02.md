@@ -24,7 +24,7 @@ FEB 10
 
 FEB 12
 : Advanced Policy Gradient (TRPO,PPO) 
-  : [Slides]() 
+  : [Slides](), Race Challenge is Out
 
 FEB 17
 : Model-based RL
