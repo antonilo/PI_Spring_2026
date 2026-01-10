@@ -1,39 +1,26 @@
 ---
-title: Applications and Frontiers
+title: Frontiers
 ---
 
-NOV 4
-: Guest Lecture I  
+APR 9
+: Guest Lecture  
   : [TBA]()
 
-
-NOV 6
-: Guest Lecture II 
+APR 14
+: Guest Lecture 
   : [TBA]()
 
-
-NOV 13
-: Guest Lecture III
+APR 16
+: Guest Lecture
   : [TBA]()
 
+APR 21
+: Guest Lecture
+  : [Boyuan Chen](https://robotics.pratt.duke.edu/faculty/boyuan-chen)
 
-NOV 18
-: Guest Lecture IV
-  : [TBA]()
-
-
-NOV 25
+APR 23
 : Challenges Ahead
-  : [TBA]()
+  : [Slides]()
 
-
-NOV 27
-: **No Class**{: .label .label-purple} Thanksgiving :turkey:
-
-
-DEC 2
-: Recitation
-
-
-DEC 4
+APR 28
 : Race Day (Phase II)

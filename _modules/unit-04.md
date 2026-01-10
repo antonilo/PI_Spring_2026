@@ -2,30 +2,21 @@
 title: Imitation Learning
 --- 
 
-OCT 23
-: Imitation Learning as Generative Modeling: Flow-matching, Diffusion 
+MAR 26
+: Introduction to Behavioral Cloning 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-OCT 28
-: Introduction to Behavioral Cloning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-
-OCT 30
-: MidTerm 
-
-NOV 11
+MAR 31
 : Behavioral Cloning Algorithms
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-NOV 20
+APR 2
 : Behavioral Cloning and Foundation Models
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-
-<!-- OCT 23
-: Learning from Pre-Trained Models
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/) -->
+APR 7
+: Recitation + Quiz
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/) 
 
 
 

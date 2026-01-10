@@ -3,41 +3,49 @@ title: Reinforcement Learning
 ---
 
 
-SEP 11
+JAN 29
 : Intro to Reinforcement Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-SEP 16
-: Intro to Reinforcement Learning
+FEB 3
+: Policy Gradient I
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
-SEP 18
-: Policy Gradient
+FEB 5
+: Policy Gradient II
   : [Slides]() 
 
 
-SEP 23
-: Policy Gradient (Advantage Estimation) 
+FEB 10
+: Policy Gradient Recitation + Quiz 
   : [Slides]() 
 
 
-SEP 25
-: Tutorial on RL 
+FEB 12
+: Advanced Policy Gradient (TRPO,PPO) 
   : [Slides]() 
 
-SEP 30
-: Advanced Policy Gradient (TRPO,PPO)
+FEB 17
+: Model-based RL
   : [Slides]()
 
-OCT 2
-: Policy Gradients and World Models 
+FEB 19
+: Recitation + Quiz
   : [Slides]() 
 
-OCT 7
-: Value and Q Learning 
+FEB 24
+: Value Learning 
   : [Slides]() 
 
+FEB 26
+: Q Learning 
+  : [Slides]() 
 
+MAR 3
+: Recitation + Quiz 
+  : [Slides]() 
 
+MAR 5: 
+: Midterm
 

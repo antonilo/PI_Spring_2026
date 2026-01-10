@@ -2,17 +2,20 @@
 title: Sim2Real 
 ---
 
-OCT 9
-: **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
+MAR 10
+: **No Class**{: .label .label-purple} Spring Break
 
-OCT 14
+MAR 12
+: **No Class**{: .label .label-purple} Spring Break
+
+MAR 17
 : Building a Simulator
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-OCT 16
-: Sim2Real: Intro & Basics
+MAR 19
+: Introduction to Sim2real
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-OCT 21
-: Sim2Real: Tips & Tricks
+MAR 24
+: Sim2Real: Tips & Tricks + Recitation
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
