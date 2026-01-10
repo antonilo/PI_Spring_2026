@@ -25,13 +25,13 @@ schedule:
       - name: Lecture
         start: 10:15 AM
         end: 11:45 AM
-        location: TODO
+        location: Berger Auditorium
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 10:15 AM
         end: 11:45 AM
-        location: TODO
+        location: Berger Auditorium
   - name: Friday
 ---
