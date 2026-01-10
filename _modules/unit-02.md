@@ -46,6 +46,6 @@ MAR 3
 : Recitation + Quiz 
   : [Slides]() 
 
-MAR 5: 
+MAR 5 
 : Midterm
 

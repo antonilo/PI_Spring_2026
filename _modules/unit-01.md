@@ -4,8 +4,7 @@ title: Foundation
 
 JAN 15
 : Intro
-  : [Syllabus](https://antonilo.github.io/physical_intelligence_fl25/syllabus/), 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Syllabus](https://antonilo.github.io/physical_intelligence_fl25/syllabus/),  [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 JAN 20
 : What is a Robot? Actuation
@@ -16,5 +15,5 @@ JAN 22
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 JAN 27
-: Quiz on __What is a Robot__ + Intro to Probability
+: Quiz on _What is a Robot_ + Intro to Probability
   : [Notes](https://github.com/NaoPross/RecursiveEstimation/blob/master/RecursiveEstimation.pdf)
