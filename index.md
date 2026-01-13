@@ -57,8 +57,8 @@ This class was also offered in [Fall 2025](https://antonilo.github.io/physical_i
 <figure style="display: inline-flex;">
 
 <figure>
-<img src="" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
-<figcaption style="text-align: center;"><a href=""><button type="button" name="button" class="btn">JN</button>
+<img src="/PI_Spring_2026/assets/images/jn.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href="https://www.linkedin.com/in/jefferson-ng-815332295/"><button type="button" name="button" class="btn">Jefferson Ng</button>
 </a></figcaption>
 </figure>
 
