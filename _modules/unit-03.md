@@ -17,5 +17,9 @@ MAR 19
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 MAR 24
-: Sim2Real: Tips & Tricks + Recitation
+: Sim2Real: Tips & Tricks
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+MAR 26
+: Recitation
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)

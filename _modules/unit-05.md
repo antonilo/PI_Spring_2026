@@ -2,10 +2,6 @@
 title: Frontiers
 ---
 
-APR 9
-: Guest Lecture  
-  : [TBA]()
-
 APR 14
 : Guest Lecture 
   : [TBA]()

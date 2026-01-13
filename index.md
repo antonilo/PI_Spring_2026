@@ -52,23 +52,29 @@ This class was also offered in [Fall 2025](https://antonilo.github.io/physical_i
 </figure>
 
 
-<!-- ## Teaching Assistants 
+## Teaching Assistants 
 
 <figure style="display: inline-flex;">
 
 <figure>
-<img src="/real_world_robot_learning_sp25/assets/images/lmk.jpg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
-<figcaption style="text-align: center;"><a href="https://www.linkedin.com/in/leonmkim/"><button type="button" name="button" class="btn">Leon Kim</button>
+<img src="" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href=""><button type="button" name="button" class="btn">JN</button>
 </a></figcaption>
 </figure>
 
 <figure>
-<img src="/real_world_robot_learning_sp25/assets/images/js.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
-<figcaption style="text-align: center;"><a href="https://junyaoshi.github.io/"><button type="button" name="button" class="btn">Junyao Shi</button>
+<img src="" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href=""><button type="button" name="button" class="btn">VT</button>
 </a></figcaption>
 </figure>
 
-</figure> -->
+<figure>
+<img src="" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href=""><button type="button" name="button" class="btn">VP</button>
+</a></figcaption>
+</figure>
+
+</figure>
 
 ## Related Courses
 
