@@ -63,8 +63,8 @@ This class was also offered in [Fall 2025](https://antonilo.github.io/physical_i
 </figure>
 
 <figure>
-<img src="" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
-<figcaption style="text-align: center;"><a href=""><button type="button" name="button" class="btn">VT</button>
+<img src="/PI_Spring_2026/assets/images/vaithak.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href="https://www.linkedin.com/in/vaithak/"><button type="button" name="button" class="btn">Vaibhav Thakkar</button>
 </a></figcaption>
 </figure>
 
