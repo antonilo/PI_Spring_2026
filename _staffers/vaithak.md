@@ -5,6 +5,6 @@ email: vaithak@seas.upenn.edu
 website: https://www.linkedin.com/in/vaithak/
 photo: vaithak.jpeg
 meta:
-  Office Hours: TBD
+  Office Hours: Friday 5 pm - 7 pm (Town 297)
 ---
 
