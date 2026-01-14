@@ -4,11 +4,11 @@ title: Frontiers
 
 APR 14
 : Guest Lecture 
-  : [TBA]()
+  : [Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/)
 
 APR 16
 : Guest Lecture
-  : [TBA]()
+  : [Kuan Fang](https://kuanfang.github.io/)
 
 APR 21
 : Guest Lecture
