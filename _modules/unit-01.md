@@ -8,7 +8,7 @@ JAN 15
 
 JAN 20
 : What is a Robot? Actuation
-  : [Slides](/PI_Spring_2026/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Fall25_Robot.pdf)
 
 JAN 22
 : What is a Robot? Perception
