@@ -10,16 +10,16 @@ MAR 12
 
 MAR 17
 : Building a Simulator
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/)
 
 MAR 19
 : Introduction to Sim2real
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/)
 
 MAR 24
 : Sim2Real: Tips & Tricks
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/)
 
 MAR 26
 : Recitation
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/)

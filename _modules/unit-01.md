@@ -4,15 +4,15 @@ title: Foundation
 
 JAN 15
 : Intro
-  : [Syllabus](https://antonilo.github.io/physical_intelligence_fl25/syllabus/),  [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Syllabus](https://antonilo.github.io/PI_Spring_2026/syllabus/),  [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Fall25_Intro.pdf)
 
 JAN 20
 : What is a Robot? Actuation
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/)
 
 JAN 22
 : What is a Robot? Perception
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/)
 
 JAN 27
 : Quiz on _What is a Robot_ + Intro to Probability
