@@ -12,7 +12,7 @@ JAN 20
 
 JAN 22
 : What is a Robot? Perception
-  : [Slides](/PI_Spring_2026/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Fall25_Robot_Sensing.pdf)
 
 JAN 27
 : Quiz on _What is a Robot_ + Intro to Probability
