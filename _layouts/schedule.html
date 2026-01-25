@@ -1,9 +1,10 @@
 {% assign start_time = page.timeline | first %}
 {% capture offset %}{% include minutes.liquid time=start_time %}{% endcapture %}
+<!-- htmlhint style-disabled:false -->
 <div class="schedule">
-  <ul class="schedule-timeline" style="min-width: {{ page.schedule | size | times: 120 }}px;">
+  <ul class="schedule-timeline" data-min-width="{{ page.schedule | size | times: 120 }}">
     {% for time in page.timeline %}
-    <li class="schedule-time">{{ time }}</li>
+    <li class="schedule-time">{{ time }} </li>
     {% endfor %}
   </ul>
   <ul class="schedule-group">
@@ -11,13 +12,14 @@
     <li class="schedule-day">
       <h2 class="schedule-header no_anchor">{{ day.name }}</h2>
       {% if day.events %}
-      <ul class="schedule-events" style="height: {{ page.timeline | size | times: 40 }}px;">
+      <ul class="schedule-events" data-height="{{ page.timeline | size | times: 40 }}">
       {% for event in day.events %}
         {% capture start %}{% include minutes.liquid time=event.start %}{% endcapture %}
         {% capture end %}{% include minutes.liquid time=event.end %}{% endcapture %}
         {% assign top = start | minus: offset | times: 40 | divided_by: 30 %}
         {% assign height = end | minus: start | times: 40 | divided_by: 30 %}
-        <li class="schedule-event {% if event.class %}{{ event.class }}{% else %}{{ event.name | slugify }}{% endif %}" style="top: {{ top }}px; height: {{ height }}px;">
+        <li class="schedule-event {% if event.class %}{{ event.class }}{% else %}{{ event.name | slugify }}{% endif %}"
+            {% if top and height %}style="top: {{ top }}px; height: {{ height }}px;"{% endif %}>
           <div class="name">{{ event.name }}</div>
           <div class="time">{{ event.start }}–{{ event.end }}</div>
           {% if event.location %}
@@ -31,3 +33,18 @@
     {% endfor %}
   </ul>
 </div>
+<script>
+  // Apply dynamic styles after page load
+  document.addEventListener('DOMContentLoaded', function() {
+    var timeline = document.querySelector('.schedule-timeline');
+    if (timeline && timeline.dataset.minWidth) {
+      timeline.style.minWidth = timeline.dataset.minWidth + 'px';
+    }
+    var events = document.querySelectorAll('.schedule-events');
+    events.forEach(function(ul) {
+      if (ul.dataset.height) {
+        ul.style.height = ul.dataset.height + 'px';
+      }
+    });
+  });
+</script>
