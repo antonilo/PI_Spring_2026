@@ -4,7 +4,8 @@ title: Foundation
 
 JAN 15
 : Intro
-  : [Syllabus](https://antonilo.github.io/PI_Spring_2026/syllabus/),  [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Fall25_Intro.pdf)
+  : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Fall25_Intro.pdf)
+    : [Syllabus](https://antonilo.github.io/PI_Spring_2026/syllabus/)
 
 
 JAN 20
