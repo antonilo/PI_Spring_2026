@@ -16,8 +16,8 @@ JAN 20
 JAN 22
 : What is a Robot? Perception
   : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Fall25_Robot_Sensing.pdf)
-    : [Mobile Robotics, Ch.3](http://vigir.missouri.edu/~gdesouza/Research/MobileRobotics/Autonomous_Mobile_Robots_Siegwart-Nourbakhsh.pdf)
+    : [Mobile Robotics, Ch.4](http://vigir.missouri.edu/~gdesouza/Research/MobileRobotics/Autonomous_Mobile_Robots_Siegwart-Nourbakhsh.pdf)
 
 JAN 27
 : Quiz on _What is a Robot_ + Intro to Probability
-  : [Notes](https://github.com/NaoPross/RecursiveEstimation/blob/master/RecursiveEstimation.pdf)
+  : [Notes (pp 1-2)](https://github.com/NaoPross/RecursiveEstimation/blob/master/RecursiveEstimation.pdf)
