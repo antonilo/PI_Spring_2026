@@ -3,36 +3,32 @@ title: Reinforcement Learning
 ---
 
 
-JAN 29
-: Intro to Reinforcement Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
 FEB 3
+: Intro to Reinforcement Learning
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Intro_RL.pdf)
+
+FEB 5
 : Policy Gradient I
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
-FEB 5
+FEB 10
 : Policy Gradient II
   : [Slides]() 
 
 
-FEB 10
+FEB 12
 : Policy Gradient Recitation + Quiz 
   : [Slides]() 
 
 
-FEB 12
+FEB 17
 : Advanced Policy Gradient (TRPO,PPO) 
   : [Slides](), Race Challenge is Out
 
-FEB 17
+FEB 19
 : Model-based RL
   : [Slides]()
-
-FEB 19
-: Recitation + Quiz
-  : [Slides]() 
 
 FEB 24
 : Value Learning 
