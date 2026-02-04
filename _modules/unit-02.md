@@ -6,6 +6,7 @@ title: Reinforcement Learning
 FEB 3
 : Intro to Reinforcement Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Intro_RL.pdf)
+    : [History of RL](http://incompleteideas.net/book/ebook/node12.html), [MDPs](https://github.com/martyput/MDP_book/blob/master/02%20Chapter/Book_ch2___20250827.pdf) 
 
 FEB 5
 : Policy Gradient I
