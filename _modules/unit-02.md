@@ -10,7 +10,8 @@ FEB 3
 
 FEB 5
 : Policy Gradient I
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Notes](/physical_intelligence_fl25/assets/pdfs/ESE6510_PG.pdf)
+    : [Shulman, Ch. 2.6](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf)
 
 
 FEB 10
