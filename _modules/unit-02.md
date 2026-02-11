@@ -16,11 +16,12 @@ FEB 5
 
 FEB 10
 : Policy Gradient II
-  : [Slides]() 
+  : [Notes](/PI_Spring_2026/assets/pdfs/ESE650_Note2_Var_reduction.pdf)
+    : [Shulman, Ch. 2.6](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf)
 
 
 FEB 12
-: Policy Gradient Recitation + Quiz 
+: Policy Gradient III 
   : [Slides]() 
 
 
