@@ -26,7 +26,7 @@ FEB 12
     : [Shulman, Ch. 4](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf)
 
 
-FEB 19
+FEB 17
 : Recitation + Quiz
   : [Slides](), Race Challenge is Out
 
