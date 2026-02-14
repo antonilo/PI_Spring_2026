@@ -23,7 +23,7 @@ FEB 10
 FEB 12
 : Policy Gradient III 
   : [Notes](/PI_Spring_2026/assets/pdfs/ESE650_Note3_BV_Tradeoff.pdf) 
-   : [Shulman, Ch. 4](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf)
+    : [Shulman, Ch. 4](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf)
 
 
 FEB 19
