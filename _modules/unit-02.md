@@ -22,15 +22,16 @@ FEB 10
 
 FEB 12
 : Policy Gradient III 
-  : [Slides]() 
+  : [Notes](/PI_Spring_2026/assets/pdfs/ESE650_Note3_BV_Tradeoff.pdf) 
+   : [Shulman, Ch. 4](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf)
 
 
-FEB 17
-: Advanced Policy Gradient (TRPO,PPO) 
+FEB 19
+: Recitation + Quiz
   : [Slides](), Race Challenge is Out
 
 FEB 19
-: Model-based RL
+: Advanced Policy Gradient (TRPO,PPO), Model-based RL
   : [Slides]()
 
 FEB 24
