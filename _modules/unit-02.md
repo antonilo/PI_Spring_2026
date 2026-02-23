@@ -28,18 +28,19 @@ FEB 12
 
 FEB 17
 : Recitation + Quiz
-  : [Slides](), Race Challenge is Out
+  : Slides on Canvas. Race Challenge is Out.
 
 FEB 19
-: Advanced Policy Gradient (TRPO,PPO), Model-based RL
-  : [Slides]()
+: Advanced Policy Gradient (TRPO,PPO)
+  : [Notes](/PI_Spring_2026/assets/pdfs/ESE6510_PPO_Notes.pdf)
+    : [TRPO](https://arxiv.org/abs/1502.05477) [PPO](https://arxiv.org/abs/1707.06347) [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf) [ARL](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf) [NAC](https://pubmed.ncbi.nlm.nih.gov/18482830/)
 
 FEB 24
-: Value Learning 
+: Model-Based RL
   : [Slides]() 
 
 FEB 26
-: Q Learning 
+: Value and Q Learning Learning 
   : [Slides]() 
 
 MAR 3
