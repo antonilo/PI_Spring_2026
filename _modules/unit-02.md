@@ -40,13 +40,10 @@ FEB 24
   : [Slides]() 
 
 FEB 26
-: Value and Q Learning Learning 
-  : [Slides]() 
+: Value and Q Learning 
+  : [Notes](/PI_Spring_2026/assets/pdfs/ESE6510_Notes_QLearning_1.pdf) 
 
 MAR 3
 : Recitation + Quiz 
   : [Slides]() 
-
-MAR 5 
-: Midterm
 
