@@ -37,7 +37,7 @@ FEB 19
 
 FEB 24
 : Model-Based RL
-  : [Slides]() 
+  : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Beyond_Policy_Gradients.pdf) , [Notes](/PI_Spring_2026/assets/pdfs/ESE6510_Model_Based_RL_Notes.pdf)  
 
 FEB 26
 : Value and Q Learning 
