@@ -47,3 +47,6 @@ MAR 3
 : Issues with Q-Learning, SAC Algorithm
   : [Notes](/PI_Spring_2026/assets/pdfs/ESE6510_Notes_QLearning_2.pdf) 
 
+MAR 5
+: Recitation + Quiz
+  : [Slides](/PI_Spring_2026/assets/pdfs/)
