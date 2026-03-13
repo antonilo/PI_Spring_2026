@@ -5,6 +5,6 @@ email: vineetp@seas.upenn.edu
 website: https://vineetpasumarti.github.io
 photo: vp.jpeg
 meta:
-  Office Hours: TBD
+  Office Hours: After class
 ---
 
