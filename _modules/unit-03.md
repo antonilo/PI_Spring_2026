@@ -15,7 +15,7 @@ MAR 17
 
 MAR 19
 : Introduction to Sim2real
-  : [Slides](/PI_Spring_2026/assets/pdfs/)
+  : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Intro_sim2real.pdf)
 
 MAR 24
 : Midterm
