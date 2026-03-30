@@ -21,5 +21,6 @@ MAR 24
 : Midterm
 
 MAR 26
-: Sim2Real: Tips and Tricks
-  : [Slides](/PI_Spring_2026/assets/pdfs/)
+: Sim2Real: System ID
+  : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_Intro_sim2real.pdf)
+    : [Coding Exercise](/PI_Spring_2026/assets/Tutorial_SysID.zip)
