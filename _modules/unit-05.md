@@ -15,7 +15,7 @@ APR 21
   : [Boyuan Chen](https://robotics.pratt.duke.edu/faculty/boyuan-chen)
 
 APR 23
-: Challenges Ahead
+: Recitation for Final Exam
   : [Slides]()
 
 APR 28
