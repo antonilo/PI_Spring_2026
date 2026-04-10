@@ -8,7 +8,7 @@ APR 2
 
 APR 7
 : Behavioral Cloning Algorithms
-  : [Slides](/PI_Spring_20265/assets/pdfs/ESE6510_BC_algorithms.pdf) 
+  : [Slides](/PI_Spring_2026/assets/pdfs/ESE6510_BC_algorithms.pdf) 
 
 APR 9
 : Behavioral Cloning and Foundation Models
