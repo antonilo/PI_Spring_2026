@@ -5,6 +5,7 @@ title: Frontiers
 APR 14
 : Guest Lecture 
   : [Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/)
+    : [Slides](/PI_Spring_2026/assets/pdfs/UPennLecture.pdf)
 
 APR 16
 : Guest Lecture
@@ -13,6 +14,7 @@ APR 16
 APR 21
 : Guest Lecture
   : [Boyuan Chen](https://robotics.pratt.duke.edu/faculty/boyuan-chen)
+    : [Slides](/PI_Spring_2026/assets/pdfs/Slides_compressed.pdf)
 
 APR 23
 : Recitation for Final Exam
