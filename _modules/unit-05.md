@@ -18,7 +18,7 @@ APR 21
 
 APR 23
 : Recitation for Final Exam
-  : [Slides]()
+  : [Slides](/PI_Spring_2026/assets/pdfs/Final Review.pdf)
 
 APR 28
 : Race Day (Phase II)
